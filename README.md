@@ -11,4 +11,4 @@ There are two datasets have been used in this study
 # Steps to be followed for classification
 Following are the steps for classification of fundus images
    1. Use Fundus_Feature_Extraction.ipynb notebook for extration of features
-   2. Use Fundus_feature_optimization_and_classification.ipynb note for selction and classification of fundus disease
+   2. Use Fundus_feature_optimization_and_classification.ipynb notebook for selction and classification of fundus disease
