@@ -10,7 +10,8 @@ There are two datasets have been used in this study
 # Executing 
 Install tensorflow, scipy, keras, pickle and colab 
 Open required notebook using colab 
-Change directory path of dataset and you are good to go!
+Change directory path of dataset and you are goodto go!
+#steps 
 Following are the steps for classification of fundus images
    1. Use Fundus_Feature_Extraction.ipynb notebook for extration of features
    2. Use Fundus_feature_optimization_and_classification.ipynb notebook for selction and classification of fundus disease
