@@ -8,8 +8,8 @@ There are two datasets have been used in this study
    Dataset can be downloaded from this link
    https://ieee-dataport.org/open-access/retinal-fundus-multi-disease-image-dataset-rfmid
 # Executing 
-Install tensorflow, scipy, keras, pickle and colab 
-Open required notebook using colab 
+Import tensorflow, keras, pickle and use colab to 
+Open required notebook.
 Change directory path of dataset and you are goodto go!
 #steps 
 Following are the steps for classification of fundus images
