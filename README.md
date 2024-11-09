@@ -3,11 +3,13 @@ There are two datasets have been used in this study
 1. ODIR dataset:
    Dataset can be downloaded from this link
    https://www.kaggle.com/datasets/andrewmvd/ocular-disease-recognition-odir5k?select=preprocessed_images
-   
-2. RFMiD dataset:
+
+     
+3. RFMiD dataset:
    Dataset can be downloaded from this link
    https://ieee-dataport.org/open-access/retinal-fundus-multi-disease-image-dataset-rfmid
-# Executing 
+   
+# Execution 
 Import tensorflow, keras, pickle and use colab to 
 Open required notebook.
 Change directory path of dataset and you are goodto go!
